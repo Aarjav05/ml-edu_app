@@ -4,6 +4,7 @@ Overview:-
 
 Key Features:-
 >Interactive dataset editing (add, move, or remove points)
+\n
 >Real-time neural network training
 >Live visualization of decision boundaries
 >Multiple synthetic datasets (moons, circles, XOR, spiral, Gaussian)
